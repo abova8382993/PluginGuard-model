@@ -1,0 +1,7 @@
+{
+  "model_name": "all-MiniLM-L6-v2",
+  "total_chunks": 19935,
+  "threshold": 0.6517159342765808,
+  "mean_sim": 0.8376777172088623,
+  "std_sim": 0.10976649820804596
+}
