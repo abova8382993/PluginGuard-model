@@ -1,8 +1,8 @@
 {
   "model_name": "microsoft/codebert-base",
-  "total_chunks": 18534,
+  "total_chunks": 19634,
   "dim": 384,
-  "threshold": 0.9897223114967346,
-  "mean_sim": 0.9952600002288818,
-  "std_sim": 0.0030927550978958607
+  "threshold": 0.9897892475128174,
+  "mean_sim": 0.9953004121780396,
+  "std_sim": 0.003087717341259122
 }
