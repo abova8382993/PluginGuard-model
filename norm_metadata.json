@@ -1,9 +1,9 @@
 {
-  "version": "1.0",
+  "version": "1.0.1",
   "model_name": "crc32_ngram_hash",
-  "total_chunks": 18549,
+  "total_chunks": 18551,
   "dim": 384,
-  "threshold": 0.5646130442619324,
-  "mean_sim": 0.7313835024833679,
-  "std_sim": 0.09900516271591187
+  "threshold": 0.564441442489624,
+  "mean_sim": 0.7313753366470337,
+  "std_sim": 0.09900376200675964
 }
