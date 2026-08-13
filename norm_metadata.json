@@ -1,9 +1,9 @@
 {
-  "model_name": "microsoft/codebert-base",
-  "total_chunks": 19634,
+  "version": "1.0",
+  "model_name": "crc32_ngram_hash",
+  "total_chunks": 19633,
   "dim": 384,
-  "threshold": 0.9897892475128174,
-  "mean_sim": 0.9953004121780396,
-  "std_sim": 0.003087717341259122,
-  "version": "1.0.1"
+  "threshold": 0.6154885292053223,
+  "mean_sim": 0.8244184851646423,
+  "std_sim": 0.11881718784570694
 }
