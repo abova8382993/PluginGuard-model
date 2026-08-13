@@ -3,7 +3,7 @@
   "model_name": "crc32_ngram_hash",
   "total_chunks": 18630,
   "dim": 384,
-  "threshold": 0.5658055543899536,
+  "threshold": 0.61,
   "mean_sim": 0.7325739860534668,
   "std_sim": 0.0987837091088295
 }
