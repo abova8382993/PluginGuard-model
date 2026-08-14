@@ -1,9 +1,11 @@
 {
-  "version": "1.0.1",
-  "model_name": "crc32_ngram_hash",
-  "total_chunks": 18630,
+  "version": "2.0.0",
+  "model_name": "contrastive_ast_ngram_hash",
+  "total_clean_chunks": 19580,
+  "total_malware_chunks": 214,
   "dim": 384,
-  "threshold": 0.61,
-  "mean_sim": 0.7325739860534668,
-  "std_sim": 0.0987837091088295
+  "threshold": 0.49734246730804443,
+  "mean_sim": 0.6560566425323486,
+  "std_sim": 0.09072825312614441,
+  "malware_threshold": 0.7
 }
