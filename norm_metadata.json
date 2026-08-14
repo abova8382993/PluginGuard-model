@@ -4,8 +4,8 @@
   "total_clean_chunks": 19580,
   "total_malware_chunks": 214,
   "dim": 384,
-  "threshold": 0.49734246730804443,
+  "threshold": 0.63,
   "mean_sim": 0.6560566425323486,
   "std_sim": 0.09072825312614441,
-  "malware_threshold": 0.7
+  "malware_threshold": 0.63
 }
