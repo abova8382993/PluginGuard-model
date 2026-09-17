@@ -9,6 +9,6 @@
   "std_sim": 0.08649782091379166,
   "malware_threshold": 0.78,
   "min_contrast_diff": 0.04,
-  "quantization": "int8_symmetric",
-  "scale": 127.0
+  "quantization": "uint8_linear",
+  "scale": 255.0
 }
